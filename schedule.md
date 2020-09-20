@@ -10,7 +10,7 @@ Class Meeting Time: Mondays 9:40 - 12:10 am
 * Sep 14. Lecture 1. `Introduction and Review`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Spiser Chapter 0.\\
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/Review.pdf)\\
-Sep 21. Lecture 2. `Finite Automata`\\
+* Sep 21. Lecture 2. `Finite Automata`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Spiser Chapter 1\\
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/FA.pdf)\\
 Sep 28. Lecture 3. `Context Free Languages`\\
