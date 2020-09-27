@@ -15,7 +15,7 @@ Class Meeting Time: Mondays 9:40 am - 12:10 pm
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/FA.pdf)\\
 * Sep 28. Lecture 3. `Context Free Languages`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Spiser 2.1, 2.2\\
-&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/CFL.pdf)\\
+&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/CFG.pdf)\\
 Oct 5. Lecture 4. `Turing Machines for Languages`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Spiser Chapter 3\\
 Oct 12. Lecture 5. `Turing Machines for Functions`\\
