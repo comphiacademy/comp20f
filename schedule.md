@@ -19,7 +19,7 @@ Class Meeting Time: Mondays 9:40 am - 12:10 pm
 * Oct 5. Lecture 4. `Turing Machines for Languages`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Spiser Chapter 3\\
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/TM_L.pdf) \\
-&nbsp; &nbsp; &nbsp; &nbsp; [JLFAP file](0^n1^n2^n.jff) \\
+&nbsp; &nbsp; &nbsp; &nbsp; [JLFAP file](012.jff) \\
 Oct 12. Lecture 5. `Turing Machines for Functions`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis Chapter 1\\
 Oct 19. Lecture 6. `The Recursive Functions`\\
