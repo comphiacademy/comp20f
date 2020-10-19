@@ -16,32 +16,35 @@ Class Meeting Time: Mondays 9:40 am - 12:10 pm
 * Sep 28. Lecture 3. `Context Free Languages`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Spiser 2.1, 2.2\\
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/CFL.pdf)
-* Oct 5. Lecture 4. `Turing Machines for Languages`\\
+* Oct 5.  Lecture 4. `Turing Machines for Languages`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Spiser Chapter 3\\
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/TM_L.pdf) \\
 &nbsp; &nbsp; &nbsp; &nbsp; JFLAP files:\\
 &nbsp; &nbsp; &nbsp; &nbsp; [0^n1^n2^n](/assets/0^n1^n2^n.jff) &nbsp; [loop](/assets/loop_aba.jff)
 * Oct 12. Lecture 5. `Turing Machines for Functions`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis Chapter 1\\
+&nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis Chapter 1, 2\\
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/TM_F.pdf) \\
 &nbsp; &nbsp; &nbsp; &nbsp; JFLAP files:\\
-&nbsp; &nbsp; &nbsp; &nbsp; [eraseBlock](/assets/eraseBlock.jff) &nbsp; [lemma1](/assets/lemma1.jff) &nbsp; [lemma1Z1](/assets/lemma1Z1.jff) &nbsp; [lemma1Z2](/assets/lemma1Z2.jff) &nbsp; [lemma1Z4](/assets/lemma1Z4.jff)\\
-Oct 19. Lecture 6. `The Recursive Functions`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis 2, 3.1, 3.2\\
+&nbsp; &nbsp; &nbsp; &nbsp; [eraseBlock](/assets/eraseBlock.jff) &nbsp; [lemma1](/assets/lemma1.jff) &nbsp; [lemma1Z1](/assets/lemma1Z1.jff) &nbsp; [lemma1Z2](/assets/lemma1Z2.jff) &nbsp; [lemma1Z4](/assets/lemma1Z4.jff)
+* Oct 19. Lecture 6. `The Recursive Functions`\\
+&nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis Chapter 3\\
+&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/RecF.pdf) \\
+&nbsp; &nbsp; &nbsp; &nbsp; JFLAP files:\\
+&nbsp; &nbsp; &nbsp; &nbsp; [minimization](/assets/min.rar)\\
 Oct 26. Lecture 7. `The Equivalence of TM and RF`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis 3.3, 3.4, 4.1, 4.2\\
+&nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis chapter 4\\
 Oct 27. **Problem Set 1 out** \\
-Nov 2. Lecture 8. `Theorems on Computability`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis 4.3; Epstein 16 (A)-(F)\\
+Nov 2.  Lecture 8. `Theorems on Computability`\\
+&nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein 16 (A)-(F)\\
 Nov 9. Lecture 9. `Computably Enumerable sets`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis 3.5, Chapter 5\\
+&nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis Chapter 5\\
 Nov 16. Lecture 10. `Reducibility`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading:  Spiser Chapter 4 and 5\\
 Nov 23. Lecture 11. `The Fixed Point Theorem`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Spiser 6.1; Epstein 16 (G)\\
 Nov 30. Lecture 12. `Gödel's First Incompleteness Theorem`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein 19-21\\
-Dec 7. Lecture 13. `Gödel's Second Incompleteness Theorem`\\
+Dec 7.  Lecture 13. `Gödel's Second Incompleteness Theorem`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein 22-24\\
 Dec 14. Lecture 14. `Time Complexity`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: \\
