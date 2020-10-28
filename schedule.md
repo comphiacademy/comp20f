@@ -28,13 +28,13 @@ Class Meeting Time: Mondays 9:40 am - 12:10 pm
 &nbsp; &nbsp; &nbsp; &nbsp; [eraseBlock](/assets/eraseBlock.jff) &nbsp; [lemma1](/assets/lemma1.jff) &nbsp; [lemma1Z1](/assets/lemma1Z1.jff) &nbsp; [lemma1Z2](/assets/lemma1Z2.jff) &nbsp; [lemma1Z4](/assets/lemma1Z4.jff)
 * Oct 19. Lecture 6. `The Recursive Functions`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis Chapter 3\\
-&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/RecFun.pdf) \\
+&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/Recursive.pdf) \\
 &nbsp; &nbsp; &nbsp; &nbsp; JFLAP files:\\
 &nbsp; &nbsp; &nbsp; &nbsp; [minimization](/assets/min.rar)
 * Oct 26. Lecture 7. `The Equivalence of TM and RF`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis chapter 4\\
-&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/Arith.pdf) \\
-Oct 27. **Problem Set 1 out** \\
+&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/Arithmetization.pdf) \\
+Oct 28. **[Problem Set 1](/assets/ProblemSet1.pdf) out** \\
 Nov 2.  Lecture 8. `Theorems on Computability`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein 16 (A)-(F)\\
 Nov 9. Lecture 9. `Computably Enumerable sets`\\
