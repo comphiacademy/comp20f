@@ -34,7 +34,7 @@ Class Meeting Time: Mondays 9:40 am - 12:10 pm
 * Oct 26. Lecture 7. `The Equivalence of TM and RF`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis chapter 4\\
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/Arithmetization.pdf) \\
-Oct 28. **[Problem Set 1](/assets/ProblemSet1.pdf) out** \\
+Oct 28. **[Problem Set 1](/assets/ProblemSet_1.pdf) out** \\
 Nov 2.  Lecture 8. `Theorems on Computability`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein 16 (A)-(F)\\
 Nov 9. Lecture 9. `Computably Enumerable sets`\\
