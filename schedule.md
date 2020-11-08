@@ -48,7 +48,7 @@ Nov 30. Lecture 12. `Gödel's First Incompleteness Theorem`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein 19-21\\
 Dec 7.  Lecture 13. `Gödel's Second Incompleteness Theorem`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein 22-24\\
-Dec 14. Lecture 14. `Time Complexity`\\
+Dec 14. Lecture 14. `Arithmetical Hierarchy`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: \\
 Dec 21. Lecture 15. `Advanced Topic`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: \\
