@@ -37,11 +37,13 @@ Class Meeting Time: Mondays 9:40 am - 12:10 pm
 Oct 28. **[Problem Set 1](/assets/ProblemSet_1.pdf) out** 
 * Nov 2.  Lecture 8. `Theorems on Computability`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein 16 (A)-(F)\\
-&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/Theorems.pdf) \\
-Nov 9. Lecture 9. `Computably Enumerable sets`\\
+&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/Theorems.pdf) 
+* Nov 9. Lecture 9. `Computably Enumerable sets`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis Chapter 5\\
-Nov 16. Lecture 10. `Reducibility`\\
+&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/RE.pdf) 
+* Nov 16. Lecture 10. `Reducibility`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading:  Spiser Chapter 4 and 5; Davis 9.1\\
+&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/Reducibility.pdf) 
 Nov 23. Lecture 11. `The Fixed Point Theorem`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Spiser 6.1; Epstein 16 (G)\\
 Nov 30. Lecture 12. `Gödel's Incompleteness Theorems I`\\
