@@ -53,6 +53,6 @@ Dec 7.  Lecture 13. `Gödel's Incompleteness Theorems II`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein 22-24\\
 Dec 14. Lecture 14. `Arithmetical Hierarchy`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis Chapter 9.2 - 9.7\\
-Dec 21. Lecture 15. `Advanced Topics`\\
+Dec 21. Lecture 15. `Advanced Topics(Canceled)`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: None\\
 Dec 22. **Problem Set 2 out**
