@@ -52,6 +52,7 @@ Nov 30. Lecture 12. `Gödel's Incompleteness Theorems I`\\
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/IncompleteA.pdf)\\
 Dec 7.  Lecture 13. `Gödel's Incompleteness Theorems II`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein Chapter 24\\
+&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/IncompleteB.pdf)\\
 Dec 14. Lecture 14. `Arithmetical Hierarchy`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis 9.3 - 9.7\\
 Dec 21. Lecture 15. `Advanced Topics(Canceled)`\\
