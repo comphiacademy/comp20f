@@ -40,20 +40,20 @@ Oct 28. **[Problem Set 1](/assets/ProblemSet_1.pdf) out**
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/Theorems.pdf) 
 * Nov 9. Lecture 9. `Computably Enumerable sets`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis Chapter 5\\
-&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/RE.pdf) 
+&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/CE.pdf) 
 * Nov 16. Lecture 10. `Reducibility`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading:  Spiser Chapter 4 and 5\\
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/Reducibility.pdf)  
 * Nov 23. Lecture 11. `The Fixed Point Theorem`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Spiser 6.1; Epstein 16 (G)\\
-&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/FixedPoint.pdf)\\
-Nov 30. Lecture 12. `Gödel's Incompleteness Theorems I`\\
+&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/FixedPoint.pdf)
+* Nov 30. Lecture 12. `Gödel's Incompleteness Theorems I`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein 19-23\\
-&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/IncompleteA.pdf)\\
-Dec 7.  Lecture 13. `Gödel's Incompleteness Theorems II`\\
+&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/IncompleteA.pdf)
+* Dec 7.  Lecture 13. `Gödel's Incompleteness Theorems II`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein Chapter 24\\
-&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/IncompleteB.pdf)\\
-Dec 14. Lecture 14. `Arithmetical Hierarchy`\\
+&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/IncompleteB.pdf)
+* Dec 14. Lecture 14. `Arithmetical Hierarchy`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis 9.3 - 9.7\\
 Dec 21. Lecture 15. `Advanced Topics(Canceled)`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: None\\
