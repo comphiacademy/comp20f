@@ -36,23 +36,23 @@ Class Meeting Time: Mondays 9:40 am - 12:10 pm
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/Equivalence.pdf) \\
 Oct 28. **[Problem Set 1](/assets/ProblemSet_1.pdf) out** 
 * Nov 2.  Lecture 8. `Theorems on Computability`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein 16 (A)-(F)\\
+&nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein 16 (A)-(F); Davis 9.1\\
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/Theorems.pdf) 
 * Nov 9. Lecture 9. `Computably Enumerable sets`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis Chapter 5\\
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/RE.pdf) 
 * Nov 16. Lecture 10. `Reducibility`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Reading:  Spiser Chapter 4 and 5; Davis 9.1\\
+&nbsp; &nbsp; &nbsp; &nbsp; Reading:  Spiser Chapter 4 and 5\\
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/Reducibility.pdf)  
 * Nov 23. Lecture 11. `The Fixed Point Theorem`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Spiser 6.1; Epstein 16 (G)\\
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/FixedPoint.pdf)\\
 Nov 30. Lecture 12. `Gödel's Incompleteness Theorems I`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein 19-21\\
+&nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein 19-23\\
 Dec 7.  Lecture 13. `Gödel's Incompleteness Theorems II`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein 22-24\\
+&nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein Chapter 24\\
 Dec 14. Lecture 14. `Arithmetical Hierarchy`\\
-&nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis Chapter 9.2 - 9.7\\
+&nbsp; &nbsp; &nbsp; &nbsp; Reading: Davis 9.3 - 9.7\\
 Dec 21. Lecture 15. `Advanced Topics(Canceled)`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: None\\
 Dec 22. **Problem Set 2 out**
