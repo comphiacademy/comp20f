@@ -49,6 +49,7 @@ Oct 28. **[Problem Set 1](/assets/ProblemSet_1.pdf) out**
 &nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/FixedPoint.pdf)\\
 Nov 30. Lecture 12. `Gödel's Incompleteness Theorems I`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein 19-23\\
+&nbsp; &nbsp; &nbsp; &nbsp; [Note](/assets/IncompleteA.pdf)\\
 Dec 7.  Lecture 13. `Gödel's Incompleteness Theorems II`\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Epstein Chapter 24\\
 Dec 14. Lecture 14. `Arithmetical Hierarchy`\\
